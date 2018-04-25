@@ -1,0 +1,871 @@
+﻿Log file open, 04/24/18 17:23:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1805058177) SRandInit(1805058177).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.136703
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.24-21.23.05:004][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.24-21.23.05:004][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.24-21.23.05:055][  0]LogInit: Computer: LAPTOP-51E9OK05
+[2018.04.24-21.23.05:055][  0]LogInit: User: codst
+[2018.04.24-21.23.05:055][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.04.24-21.23.05:055][  0]LogInit: High frequency timer resolution =2.343753 MHz
+[2018.04.24-21.23.05:056][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.04.24-21.23.05:056][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-21.23.05:056][  0]LogMemory: Process Physical Memory: 279.86 MB used, 279.86 MB peak
+[2018.04.24-21.23.05:056][  0]LogMemory: Process Virtual Memory: 275.92 MB used, 275.92 MB peak
+[2018.04.24-21.23.05:056][  0]LogMemory: Physical Memory: 4642.15 MB used,  7513.98 MB free, 12156.13 MB total
+[2018.04.24-21.23.05:056][  0]LogMemory: Virtual Memory: 705.40 MB used,  7513.98 MB free, 134217728.00 MB total
+[2018.04.24-21.23.05:330][  0]LogInit: Using OS detected language (en-US).
+[2018.04.24-21.23.05:330][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.24-21.23.05:333][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.24-21.23.06:257][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.24-21.23.06:266][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.04.24-21.23.06:266][  0]LogD3D11RHI:       128/0/6078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.04.24-21.23.06:269][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.24-21.23.06:269][  0]LogD3D11RHI:       0/0/6078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.24-21.23.06:269][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.24-21.23.06:274][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.24-21.23.06:274][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.24-21.23.06:274][  0]LogWindows: EnumDisplayDevices:
+[2018.04.24-21.23.06:274][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.04.24-21.23.06:274][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.04.24-21.23.06:275][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.04.24-21.23.06:275][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.24-21.23.06:275][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2018.04.24-21.23.06:275][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.24-21.23.06:275][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.24-21.23.06:275][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.04.24-21.23.06:281][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.24-21.23.06:287][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.04.24-21.23.06:288][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Intermediate/Shaders/WorkingDirectory/2456/).
+[2018.04.24-21.23.06:289][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/codst/AppData/Local/Temp/UnrealShaderWorkingDir/D03D720E4D817A1CE910908A626B119E/'.
+[2018.04.24-21.23.06:289][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.24-21.23.07:485][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.24-21.23.07:547][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.24-21.23.07:608][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.24-21.23.07:671][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.24-21.23.07:738][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.24-21.23.07:800][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.24-21.23.07:861][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.24-21.23.07:923][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.24-21.23.07:976][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.24-21.23.08:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.24-21.23.08:123][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.24-21.23.08:193][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.24-21.23.08:255][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.24-21.23.08:314][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.24-21.23.08:375][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.24-21.23.08:497][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.24-21.23.08:497][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.24-21.23.08:544][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.24-21.23.08:667][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.24-21.23.08:705][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.24-21.23.08:770][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.24-21.23.08:835][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.24-21.23.08:910][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.24-21.23.08:991][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.24-21.23.08:991][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.24-21.23.09:628][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.24-21.23.09:739][  0]LogDerivedDataCache: Loaded boot cache 0.11s 93MB C:/Users/codst/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.24-21.23.09:739][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/codst/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.04.24-21.23.09:739][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.24-21.23.09:739][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.24-21.23.09:739][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.24-21.23.09:739][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.24-21.23.09:760][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.24-21.23.09:773][  0]LogDerivedDataCache: Using Local data cache path C:/Users/codst/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.24-21.23.09:786][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.24-21.23.09:786][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.24-21.23.09:787][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.24-21.23.09:787][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.24-21.23.10:146][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2018.04.24-21.23.10:302][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.24-21.23.10:503][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.04.24-21.23.10:924][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.24-21.23.10:973][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.24-21.23.10:973][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.24-21.23.10:973][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.24-21.23.10:973][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.24-21.23.10:973][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.24-21.23.11:420][  0]LogNetVersion: MyProject , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3113362612)
+[2018.04.24-21.23.11:711][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.066405 seconds
+[2018.04.24-21.23.11:719][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.04.24-21.23.11:719][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.04.24-21.23.11:719][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.24-21.23.11:801][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.24-21.23.15:173][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.24-21.23.15:228][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.24-21.23.16:023][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.24-21.23.16:544][  0]SourceControl: Source control is disabled
+[2018.04.24-21.23.16:545][  0]SourceControl: Source control is disabled
+[2018.04.24-21.23.16:618][  0]SourceControl: Source control is disabled
+[2018.04.24-21.23.16:682][  0]SourceControl: Source control is disabled
+[2018.04.24-21.23.17:387][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.24-21.23.17:686][  0]LogOcInput: OculusInput pre-init called
+[2018.04.24-21.23.17:993][  0]LogEngine: Initializing Engine...
+[2018.04.24-21.23.17:996][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.24-21.23.18:267][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.24-21.23.18:267][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.24-21.23.18:461][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.24-21.23.18:470][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-21.23.18:593][  0]LogInit: FAudioDevice initialized.
+[2018.04.24-21.23.18:856][  0]LogDerivedDataCache: Saved boot cache 0.26s 93MB C:/Users/codst/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.24-21.23.18:878][  0]LogInit: Texture streaming: Enabled
+[2018.04.24-21.23.19:033][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.24-21.23.19:323][  0]LogInit: Transaction tracking system initialized
+[2018.04.24-21.23.19:756][  0]BlueprintLog: New page: Editor Load
+[2018.04.24-21.23.20:980][  0]LocalizationService: Localization service is disabled
+[2018.04.24-21.23.21:927][  0]LogConsoleResponse: Display: 
+[2018.04.24-21.23.22:263][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.24-21.23.22:264][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.24-21.23.22:264][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.24-21.23.22:746][  0]LogFileCache: Scanning file cache for directory 'C:/Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/' took 0.02s
+[2018.04.24-21.23.23:620][  0]SourceControl: Source control is disabled
+[2018.04.24-21.23.23:621][  0]Cmd: MAP LOAD FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.24-21.23.23:621][  0]LightingResults: New page: Lighting Build
+[2018.04.24-21.23.23:692][  0]MapCheck: New page: Map Check
+[2018.04.24-21.23.23:693][  0]LightingResults: New page: Lighting Build
+[2018.04.24-21.23.31:240][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-21.23.31:299][  0]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.23.31:299][  0]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.23.31:299][  0]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.23.31:300][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.24-21.23.31:356][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.24-21.23.31:426][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.294ms to complete.
+[2018.04.24-21.23.31:426][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 7.805
+[2018.04.24-21.23.31:821][  0]LogCollectionManager: Loaded 0 collections in 0.001803 seconds
+[2018.04.24-21.23.31:907][  0]LogFileCache: Scanning file cache for directory 'C:/Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Collections/' took 0.01s
+[2018.04.24-21.23.31:907][  0]LogFileCache: Scanning file cache for directory 'C:/Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/Developers/codst/Collections/' took 0.01s
+[2018.04.24-21.23.31:907][  0]LogFileCache: Scanning file cache for directory 'C:/Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/Collections/' took 0.01s
+[2018.04.24-21.23.31:907][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.24-21.23.31:919][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2386 classes and 500 folders.
+[2018.04.24-21.23.32:005][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.04.24-21.23.33:932][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.04.24-21.23.34:047][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.04.24-21.23.34:123][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.24-21.23.34:127][  0]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.24-21.23.34:211][  0]LogSlate: Took 0.076703 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.24-21.23.34:509][  0]LogRenderer: Reallocating scene render targets to support 920x436 Format 10 NumSamples 1 (Frame:1).
+[2018.04.24-21.23.35:890][  0]LogSlate: Took 0.019213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-21.23.36:071][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.04.24-21.23.36:071][  0]LogLoad: (Engine Initialization) Total time: 33.31 seconds
+[2018.04.24-21.23.36:071][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.24-21.23.36:071][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.24-21.23.36:455][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.24-21.23.37:587][  3]LogAssetRegistry: Asset discovery search completed in 27.4628 seconds
+[2018.04.24-21.23.37:589][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.24-21.23.37:589][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2018.04.24-21.23.37:659][  3]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-21.23.59:035][357]MapCheck: New page: Map Check
+[2018.04.24-21.23.59:091][357]Cmd: MAP REBUILD ALLVISIBLE
+[2018.04.24-21.23.59:094][357]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.04.24-21.23.59:934][357]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.23.59:935][357]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.23.59:935][357]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.24.00:262][357]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.04.24-21.24.00:478][357]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.04.24-21.24.00:535][357]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Walnut, compiling. 
+[2018.04.24-21.24.00:632][357]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Floor_Walnut_Worn, compiling. 
+[2018.04.24-21.24.00:641][357]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.04.24-21.24.00:650][357]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Floor_Walnut_Polished, compiling. 
+[2018.04.24-21.24.00:659][357]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Grime, compiling. 
+[2018.04.24-21.24.00:808][357]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Panels, compiling. 
+[2018.04.24-21.24.01:620][357]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.04.24-21.24.01:632][357]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.04.24-21.24.01:680][357]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.04.24-21.24.01:744][357]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.04.24-21.24.03:788][357]TextureStreamingBuild: Display: Compiling optional shaders took 3.570 seconds.
+[2018.04.24-21.24.03:994][357]LogLevel: Display: Export Material TexCoord Scales took 0.206 seconds.
+[2018.04.24-21.24.04:046][357]TextureStreamingBuild: Display: Build Texture Streaming took 0.025 seconds.
+[2018.04.24-21.24.04:166][357]LightingResults: New page: Lighting Build - Apr 24, 2018, 1:24:04 PM
+[2018.04.24-21.24.04:458][357]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.04.24-21.24.04:828][357]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.04.24-21.24.05:057][357]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.04.24-21.24.07:996][357]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.04.24-21.24.07:996][357]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2456
+[2018.04.24-21.24.32:368][357]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.04.24-21.24.32:377][357]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.04.24-21.24.32:377][357]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.04.24-21.24.32:378][357]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.04.24-21.24.32:378][357]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.04.24-21.24.33:439][357]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.04.24-21.24.33:439][357]MapCheck: New page: ThirdPersonExampleMap - Apr 24, 2018, 1:24:33 PM
+[2018.04.24-21.24.33:555][357]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 115.953ms to complete.
+[2018.04.24-21.24.33:577][357]LogEditorBuildUtils: Build time 0:34
+[2018.04.24-21.24.51:211][405]Job is a success!
+[2018.04.24-21.24.51:628][406]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-21.24.53:873][406]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.04.24-21.24.53:873][406]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.04.24-21.24.53:873][406]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.04.24-21.24.53:873][406]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2018.04.24-21.24.53:873][406]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2018.04.24-21.24.53:874][406]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2018.04.24-21.24.53:874][406]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2018.04.24-21.24.53:874][406]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.04.24-21.24.53:874][406]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.04.24-21.24.54:431][406]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2018.04.24-21.24.54:432][406]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.04.24-21.24.54:432][406]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X256)
+[2018.04.24-21.24.55:162][406]Lightmass on LAPTOP-51E9OK05: 17.6 sec total, 745 ms importing, 83 ms setup, 2.21 sec photons, 13.7 sec processing, 0 ms extra exporting [107/107 mappings]. Threads: 55.0 sec total, 26.5 sec processing.
+[2018.04.24-21.24.55:547][406]LogStaticLightingSystem: Illumination: 50.9 sec (1.89 sec encoding lightmaps, 513 ms encoding shadowmaps)
+[2018.04.24-21.24.55:547][406]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (2.7 MB streaming, 0.7 MB non-streaming), 6 textures
+[2018.04.24-21.24.55:547][406]LogStaticLightingSystem: Shadowmap texture memory: 0.8 MB (0.7 MB streaming, 0.1 MB non-streaming), 3 textures
+[2018.04.24-21.25.15:376][406]DumpUnbuiltLightIteractions
+[2018.04.24-21.25.15:376][406]Lights with unbuilt interactions: 0
+[2018.04.24-21.25.15:376][406]
+[2018.04.24-21.25.15:376][406]Primitives with unbuilt interactions: 0
+[2018.04.24-21.25.15:407][407]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.04.24-21.25.15:407][407]MapCheck: New page: ThirdPersonExampleMap - Apr 24, 2018, 1:25:15 PM
+[2018.04.24-21.25.15:748][407]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 341.006ms to complete.
+[2018.04.24-21.25.16:281][407]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall9)
+[2018.04.24-21.25.26:697][546]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-21.25.26:936][546]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-21.25.26:936][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-21.25.26:936][546]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 1:25:26 PM)
+[2018.04.24-21.25.26:937][546]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-21.25.26:965][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028153s)
+[2018.04.24-21.25.26:967][546]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-21.25.26:967][546]LogPlayLevel: PIE: World Init took: (0.001941s)
+[2018.04.24-21.25.26:981][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.044945s)
+[2018.04.24-21.25.27:001][546]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-21.25.27:018][546]LogInit: FAudioDevice initialized.
+[2018.04.24-21.25.27:073][546]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-21.25.27:230][546]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.04.24-17.25.27
+[2018.04.24-21.25.27:244][546]LogWorld: Bringing up level for play took: 0.119302
+[2018.04.24-21.25.27:334][546]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0023 seconds. Added 11 classes and 0 folders.
+[2018.04.24-21.25.27:336][546]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.239
+[2018.04.24-21.25.27:336][546]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-21.25.46:899][201]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-21.25.46:992][201]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-21.26.04:565][555]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.24-21.26.05:753][555]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 113 classes and 0 folders.
+[2018.04.24-21.26.08:314][555]LogSlate: Took 0.022969 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.24-21.26.12:789][676]LogSlate: Took 0.031497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.24-21.26.45:580][733]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.26.45:581][733]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.26.45:581][733]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.26.47:616][765]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.26.47:616][765]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.26.47:616][765]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.26.51:883][  7]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.26.51:883][  7]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.26.51:883][  7]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.26.51:921][  8]LogRenderer: Reallocating scene render targets to support 920x524 Format 10 NumSamples 1 (Frame:1).
+[2018.04.24-21.26.52:201][  9]LogRenderer: Reallocating scene render targets to support 920x540 Format 10 NumSamples 1 (Frame:4).
+[2018.04.24-21.26.57:197][203]LogRenderer: Reallocating scene render targets to support 920x544 Format 10 NumSamples 1 (Frame:200).
+[2018.04.24-21.34.16:524][400]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.16:524][400]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.16:524][400]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.16:526][400]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.16:527][400]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.16:527][400]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.16:528][400]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.16:528][400]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.16:528][400]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.21:098][651]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.21:098][651]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.21:098][651]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.21:100][651]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.21:100][651]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.21:100][651]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.21:104][651]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.21:104][651]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.21:104][651]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.22:673][724]LogSlate: Took 0.022588 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.24-21.34.24:916][856]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.24:917][856]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.24:917][856]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.24:919][856]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.24:919][856]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.24:919][856]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.24:920][856]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.24:920][856]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.24:920][856]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.26:938][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.26:938][962]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.26:938][962]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.26:940][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.26:941][962]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.26:941][962]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.26:943][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.26:943][962]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.26:944][962]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.28:873][ 63]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.28:874][ 63]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.28:874][ 63]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.28:876][ 63]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.28:876][ 63]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.28:876][ 63]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.28:878][ 63]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.28:878][ 63]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.28:878][ 63]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.46:276][788]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.24-21.34.46:584][788]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.46:585][788]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.46:585][788]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.46:610][788]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.46:610][788]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.47:266][788]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.47:266][788]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.47:266][788]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.34.47:409][788]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.47:729][788]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.47:731][788]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.47:731][788]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.34.47:733][788]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.51:898][  8]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.51:900][  8]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.51:905][  8]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.51:908][  8]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.51:910][  8]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.51:912][  8]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.58:839][420]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.58:842][420]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.34.58:845][420]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.35.05:067][682]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.35.05:069][682]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.35.05:072][682]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.35.18:026][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:231][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:362][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:366][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:369][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:373][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:376][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:395][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:399][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:403][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:407][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:410][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:440][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:443][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:446][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:452][276]LogSavePackage: Save=439.05ms
+[2018.04.24-21.35.18:453][276]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/BP_LightStudio7F262A494A9C3267090627BB64B54C45.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset'
+[2018.04.24-21.35.18:458][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:461][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.18:461][276]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset
+[2018.04.24-21.35.18:723][277]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2018.04.24-21.35.18:736][277]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0735.97] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 91 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2018.04.24-21.35.19:155][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:196][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:220][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:224][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:227][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:230][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:234][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:251][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:255][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:258][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:261][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:265][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:273][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:276][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:284][277]LogSavePackage: Save=142.72ms
+[2018.04.24-21.35.19:285][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:285][277]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Ue4ASP_Character7AC7B5A743BC517FFA387FAA93BB057F.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/AnimStarterPack/Ue4ASP_Character.uasset'
+[2018.04.24-21.35.19:290][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:292][277]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/AnimStarterPack/Ue4ASP_Character.uasset
+[2018.04.24-21.35.19:424][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:436][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:446][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:449][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:451][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:455][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:458][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:465][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:467][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:470][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:473][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:476][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:480][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:483][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:491][278]LogSavePackage: Save=77.89ms
+[2018.04.24-21.35.19:493][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:493][278]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Blueprint_CeilingLightE088D2EB41776140872A76AD94072782.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset'
+[2018.04.24-21.35.19:498][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:500][278]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
+[2018.04.24-21.35.19:674][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:679][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:686][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:689][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:691][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:695][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:698][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:701][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:705][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:707][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:710][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:713][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:716][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:719][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:726][279]LogSavePackage: Save=61.75ms
+[2018.04.24-21.35.19:727][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:727][279]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Blueprint_Effect_ExplosionCEB1E9FB4789A8DA72FFC686303CAB54.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset'
+[2018.04.24-21.35.19:731][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.19:733][279]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset
+[2018.04.24-21.35.20:275][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:280][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:285][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:289][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:292][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:295][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:298][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:304][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:306][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:309][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:313][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:316][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:320][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:323][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:405][280]LogSavePackage: Save=140.87ms
+[2018.04.24-21.35.20:406][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:406][280]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Blueprint_Effect_FireC17A86D942B47C19CD7C3BA86A845778.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset'
+[2018.04.24-21.35.20:411][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:413][280]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset
+[2018.04.24-21.35.20:591][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:597][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:602][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:605][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:608][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:611][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:614][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:618][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:621][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:625][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:627][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:630][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:633][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:636][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:645][281]LogSavePackage: Save=62.12ms
+[2018.04.24-21.35.20:645][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:646][281]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Blueprint_Effect_SmokeFD2675DD426DF81F3F3E2AA45B42146A.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset'
+[2018.04.24-21.35.20:650][281]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.20:652][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset
+[2018.04.24-21.35.20:998][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:004][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:008][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:011][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:014][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:017][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:020][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:025][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:028][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:031][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:034][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:037][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:040][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:043][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:050][282]LogSavePackage: Save=61.45ms
+[2018.04.24-21.35.21:050][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:051][282]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Blueprint_Effect_SparksD230096142EFAF5A178C098F302C6323.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset'
+[2018.04.24-21.35.21:056][282]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:057][282]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset
+[2018.04.24-21.35.21:371][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:376][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:380][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:384][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:387][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:390][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:393][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:397][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:400][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:403][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:406][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:408][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:411][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:415][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:422][283]LogSavePackage: Save=60.60ms
+[2018.04.24-21.35.21:423][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:423][283]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Blueprint_Effect_Steam4036AF604940628E42DDE285AC3E8219.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset'
+[2018.04.24-21.35.21:428][283]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.04.24-21.35.21:429][283]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset
+[2018.04.24-21.36.09:515][108]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.24-21.36.09:727][108]LogClass: Warning: Type mismatch in Ammo of ThirdPersonCharacter_C - Previous (FloatProperty) Current(IntProperty) for package:  FObjectReader
+[2018.04.24-21.36.09:731][108]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.36.09:731][108]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.36.09:731][108]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.36.09:750][108]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.36.09:750][108]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.36.09:750][108]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.36.10:203][108]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.36.10:349][108]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.36.10:691][108]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.36.10:692][108]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.36.10:694][108]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.36.10:696][108]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.36.11:577][135]LogSavePackage: Save=284.29ms
+[2018.04.24-21.36.11:577][135]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonCharacter127C1A294FA9A91B28FA66B23DD69EAE.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.24-21.36.11:582][135]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.24-21.37.35:277][776]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.37.35:280][776]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.37.35:283][776]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.37.38:695][864]LogSavePackage: Save=290.99ms
+[2018.04.24-21.37.38:695][864]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonExampleMap_Auto1AA62585147EAE03AC4CE11A7085DACBA.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.04.24-21.37.38:700][864]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.04.24-21.37.38:704][864]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.391
+[2018.04.24-21.37.38:704][864]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.391
+[2018.04.24-21.37.38:748][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.04.24-21.37.38:795][864]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.04.24-21.37.38:795][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.04.24-21.37.39:097][864]LogSavePackage: Save=287.02ms
+[2018.04.24-21.37.39:097][864]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonCharacter_Auto1EBAEBC3E4344D3290FB5B4851FC017EC.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.04.24-21.37.39:128][864]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.04.24-21.37.39:129][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2018.04.24-21.37.39:129][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData]
+[2018.04.24-21.37.39:360][864]LogSavePackage: Save=30.39ms
+[2018.04.24-21.37.39:360][864]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonExampleMap_BuiltData_Auto1FBBBCDE5481BAB193641319906656BF8.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto1.uasset'
+[2018.04.24-21.37.39:362][864]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto1.uasset
+[2018.04.24-21.37.39:363][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD] ([1] browsable assets)...
+[2018.04.24-21.37.39:363][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD]
+[2018.04.24-21.37.39:363][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/HUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.24-21.37.39:382][864]LogSavePackage: Save=16.33ms
+[2018.04.24-21.37.39:382][864]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/HUD_Auto14E2C12B54151C5C95D0BBD82191F5DDB.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/HUD_Auto1.uasset'
+[2018.04.24-21.37.39:384][864]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/HUD_Auto1.uasset
+[2018.04.24-21.37.39:386][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu] ([1] browsable assets)...
+[2018.04.24-21.37.39:386][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu]
+[2018.04.24-21.37.39:407][864]LogSavePackage: Save=17.65ms
+[2018.04.24-21.37.39:407][864]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu_Auto1545934D049747B64777FAF96735F6C30.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/MainMenu_Auto1.uasset'
+[2018.04.24-21.37.39:409][864]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/MainMenu_Auto1.uasset
+[2018.04.24-21.37.39:409][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PauseMenu] ([1] browsable assets)...
+[2018.04.24-21.37.39:409][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/PauseMenu]
+[2018.04.24-21.37.39:429][864]LogSavePackage: Save=16.41ms
+[2018.04.24-21.37.39:429][864]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/PauseMenu_Auto194F9F5204F67B40AD39B5D83234870B0.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/PauseMenu_Auto1.uasset'
+[2018.04.24-21.37.39:431][864]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/PauseMenu_Auto1.uasset
+[2018.04.24-21.37.39:431][864]LogFileHelpers: Auto-saving content packages took 0.691
+[2018.04.24-21.37.51:543][374]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.37.51:545][374]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.37.51:548][374]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.39.07:394][653]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.39.07:397][653]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.39.07:400][653]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.39.07:404][653]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.39.07:405][653]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.39.07:408][653]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.39.50:521][194]LogEditorTransaction: Undo Add Node
+[2018.04.24-21.39.50:603][194]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.39.50:605][194]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.39.50:607][194]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.41.03:090][867]LogSavePackage: Save=279.21ms
+[2018.04.24-21.41.03:090][867]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonExampleMap27215A9E47B4D087339A0D85164725AE.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.24-21.41.03:115][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.24-21.41.03:248][867]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.795
+[2018.04.24-21.41.03:823][867]LogSavePackage: Save=551.65ms
+[2018.04.24-21.41.03:823][867]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonExampleMap_BuiltDataC70F2855466F793C726498838504C4EE.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.24-21.41.03:837][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.24-21.41.04:200][867]LogSavePackage: Save=292.47ms
+[2018.04.24-21.41.04:200][867]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonCharacter760390E94F920E43C247C58D4CE43159.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.24-21.41.04:211][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.24-21.41.04:216][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset" SILENT=true
+[2018.04.24-21.41.04:271][867]LogSavePackage: Save=51.08ms
+[2018.04.24-21.41.04:271][867]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/HUD75E5EC28408AB777F74550916A5B3C11.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset'
+[2018.04.24-21.41.04:278][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset
+[2018.04.24-21.41.04:282][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-21.41.04:300][867]LogSavePackage: Save=14.44ms
+[2018.04.24-21.41.04:300][867]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu13E12AA64D5418D86F4186B083E08FB4.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-21.41.04:310][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-21.41.04:314][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PauseMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/PauseMenu.uasset" SILENT=true
+[2018.04.24-21.41.04:337][867]LogSavePackage: Save=20.59ms
+[2018.04.24-21.41.04:337][867]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/PauseMenu52628AB34F15C760CA6C109D0420B65F.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/PauseMenu.uasset'
+[2018.04.24-21.41.04:341][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/PauseMenu.uasset
+[2018.04.24-21.41.14:942][140]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.24-21.41.15:253][140]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.41.15:253][140]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.41.15:253][140]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.41.15:272][140]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.41.15:272][140]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.41.15:272][140]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.41.15:752][140]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.41.15:898][140]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.41.16:252][140]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.41.16:252][140]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.41.16:252][140]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.41.16:254][140]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.41.16:256][140]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.42.13:844][400]LogSlate: Took 0.070949 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.04.24-21.43.31:459][889]BlueprintLog: New page: Compile HUD
+[2018.04.24-21.43.31:596][889]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.43.31:796][889]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.43.31:949][889]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.43.32:157][889]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.43.32:158][889]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.43.32:160][889]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.43.33:489][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset" SILENT=true
+[2018.04.24-21.43.33:840][966]LogSavePackage: Save=264.52ms
+[2018.04.24-21.43.33:841][966]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/HUD7A183F574827483C9E750F85B71E2FE5.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset'
+[2018.04.24-21.43.33:848][966]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset
+[2018.04.24-21.44.45:380][620]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.295 s
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: 
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: Ensure condition failed: !PreviewSlateWidgetWeak.IsValid() [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UMGEditor\Private\WidgetBlueprintEditor.cpp] [Line: 786]
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: 
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: Stack: 
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000AD9C3E36
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000AD74C2D2
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000AD764746
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: UE4Editor-UMGEditor.dll!0x000000009FC10940
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: UE4Editor-UMGEditor.dll!0x000000009FC7A9DE
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000A2D0901C
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000A2D0DD1C
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000A4EB1CE7
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000A3D870EF
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: UE4Editor-UMGEditor.dll!0x000000009FCB8AD2
+[2018.04.24-21.44.45:380][620]LogOutputDevice: Error: UE4Editor-UMGEditor.dll!0x000000009FC5B024
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-UMGEditor.dll!0x000000009FC1ED97
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-UMGEditor.dll!0x000000009FC22F17
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000B548A227
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000B52A725A
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000B52A7D7D
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000B5246E74
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-UMGEditor.dll!0x000000009FBD87BC
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-UMGEditor.dll!0x000000009FC80C12
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-UMGEditor.dll!0x000000009FC204E6
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-UMGEditor.dll!0x000000009FBCE9A5
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-UMGEditor.dll!0x000000009FCC3CAF
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-UMGEditor.dll!0x000000009FCC08C9
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-UMGEditor.dll!0x000000009FC8CED0
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000B5234DA6
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000B520665C
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000B529F95A
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000B52897E3
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000B527AFE0
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000AD99B80B
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000AD983EE1
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000AD99D5BB
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000AD97F042
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: USER32.dll!0x00000000F5F8B85D
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: USER32.dll!0x00000000F5F8B1EF
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000AD99DCC6
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor.exe!0x0000000098654BE2
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor.exe!0x0000000098663970
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor.exe!0x00000000986639EA
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor.exe!0x00000000986702D9
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: UE4Editor.exe!0x0000000098671C47
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: KERNEL32.DLL!0x00000000F4A61FE4
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: ntdll.dll!0x00000000F61AF061
+[2018.04.24-21.44.45:381][620]LogOutputDevice: Error: 
+[2018.04.24-21.44.45:386][620]LogStats:                SubmitErrorReport -  0.000 s

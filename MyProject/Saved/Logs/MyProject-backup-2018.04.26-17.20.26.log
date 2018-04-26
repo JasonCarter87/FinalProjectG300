@@ -1,0 +1,1480 @@
+﻿Log file open, 04/24/18 17:46:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(869124454) SRandInit(869124454).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.134128
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.24-21.46.57:929][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.24-21.46.57:929][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.24-21.46.57:946][  0]LogInit: Computer: LAPTOP-51E9OK05
+[2018.04.24-21.46.57:946][  0]LogInit: User: codst
+[2018.04.24-21.46.57:946][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.04.24-21.46.57:946][  0]LogInit: High frequency timer resolution =2.343753 MHz
+[2018.04.24-21.46.57:946][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.04.24-21.46.57:946][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-21.46.57:946][  0]LogMemory: Process Physical Memory: 279.86 MB used, 279.86 MB peak
+[2018.04.24-21.46.57:946][  0]LogMemory: Process Virtual Memory: 275.97 MB used, 275.97 MB peak
+[2018.04.24-21.46.57:946][  0]LogMemory: Physical Memory: 5672.32 MB used,  6483.81 MB free, 12156.13 MB total
+[2018.04.24-21.46.57:946][  0]LogMemory: Virtual Memory: 705.40 MB used,  6483.81 MB free, 134217728.00 MB total
+[2018.04.24-21.46.58:133][  0]LogInit: Using OS detected language (en-US).
+[2018.04.24-21.46.58:133][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.24-21.46.58:137][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.24-21.46.59:085][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.24-21.46.59:094][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.04.24-21.46.59:094][  0]LogD3D11RHI:       128/0/6078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.04.24-21.46.59:097][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.24-21.46.59:097][  0]LogD3D11RHI:       0/0/6078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.24-21.46.59:097][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.24-21.46.59:102][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.24-21.46.59:102][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.24-21.46.59:102][  0]LogWindows: EnumDisplayDevices:
+[2018.04.24-21.46.59:102][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.04.24-21.46.59:102][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.04.24-21.46.59:103][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.04.24-21.46.59:103][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.24-21.46.59:103][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2018.04.24-21.46.59:103][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.24-21.46.59:103][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.24-21.46.59:103][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.04.24-21.46.59:110][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.24-21.46.59:117][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.04.24-21.46.59:118][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Intermediate/Shaders/WorkingDirectory/3228/).
+[2018.04.24-21.46.59:118][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/codst/AppData/Local/Temp/UnrealShaderWorkingDir/FF2DA7D0401846171DDA6CB4280178FA/'.
+[2018.04.24-21.46.59:118][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.24-21.47.00:371][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.24-21.47.00:439][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.24-21.47.00:507][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.24-21.47.00:578][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.24-21.47.00:646][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.24-21.47.00:713][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.24-21.47.00:787][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.24-21.47.00:856][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.24-21.47.00:913][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.24-21.47.00:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.24-21.47.01:044][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.24-21.47.01:113][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.24-21.47.01:179][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.24-21.47.01:246][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.24-21.47.01:310][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.24-21.47.01:447][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.24-21.47.01:447][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.24-21.47.01:503][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.24-21.47.01:620][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.24-21.47.01:659][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.24-21.47.01:728][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.24-21.47.01:796][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.24-21.47.01:859][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.24-21.47.01:919][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.24-21.47.01:919][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.24-21.47.02:501][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.24-21.47.02:609][  0]LogDerivedDataCache: Loaded boot cache 0.11s 93MB C:/Users/codst/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.24-21.47.02:609][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/codst/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.04.24-21.47.02:609][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.24-21.47.02:609][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.24-21.47.02:609][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.24-21.47.02:609][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.24-21.47.02:631][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.24-21.47.02:643][  0]LogDerivedDataCache: Using Local data cache path C:/Users/codst/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.24-21.47.02:656][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.24-21.47.02:656][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.24-21.47.02:657][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.24-21.47.02:657][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.24-21.47.02:995][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2018.04.24-21.47.03:167][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.24-21.47.03:354][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.04.24-21.47.03:723][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.24-21.47.03:773][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.24-21.47.03:773][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.24-21.47.03:773][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.24-21.47.03:773][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.24-21.47.03:773][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.24-21.47.04:215][  0]LogNetVersion: MyProject , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3113362612)
+[2018.04.24-21.47.04:509][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.069939 seconds
+[2018.04.24-21.47.04:517][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.04.24-21.47.04:517][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.04.24-21.47.04:517][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.24-21.47.04:597][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.24-21.47.07:766][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.24-21.47.07:813][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.24-21.47.08:591][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.24-21.47.09:097][  0]SourceControl: Source control is disabled
+[2018.04.24-21.47.09:097][  0]SourceControl: Source control is disabled
+[2018.04.24-21.47.09:154][  0]SourceControl: Source control is disabled
+[2018.04.24-21.47.09:209][  0]SourceControl: Source control is disabled
+[2018.04.24-21.47.09:891][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.24-21.47.10:179][  0]LogOcInput: OculusInput pre-init called
+[2018.04.24-21.47.10:473][  0]LogEngine: Initializing Engine...
+[2018.04.24-21.47.10:475][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.24-21.47.10:752][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.24-21.47.10:752][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.24-21.47.10:917][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.24-21.47.10:927][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-21.47.10:947][  0]LogInit: FAudioDevice initialized.
+[2018.04.24-21.47.11:166][  0]LogDerivedDataCache: Saved boot cache 0.22s 93MB C:/Users/codst/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.24-21.47.11:186][  0]LogInit: Texture streaming: Enabled
+[2018.04.24-21.47.11:336][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.24-21.47.11:630][  0]LogInit: Transaction tracking system initialized
+[2018.04.24-21.47.12:047][  0]BlueprintLog: New page: Editor Load
+[2018.04.24-21.47.13:179][  0]LocalizationService: Localization service is disabled
+[2018.04.24-21.47.14:055][  0]LogConsoleResponse: Display: 
+[2018.04.24-21.47.14:310][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.24-21.47.14:310][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.24-21.47.14:311][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.24-21.47.14:914][  0]LogFileCache: Scanning file cache for directory 'C:/Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/' took 0.02s
+[2018.04.24-21.47.15:587][  0]SourceControl: Source control is disabled
+[2018.04.24-21.47.15:587][  0]Cmd: MAP LOAD FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.24-21.47.15:587][  0]LightingResults: New page: Lighting Build
+[2018.04.24-21.47.15:640][  0]MapCheck: New page: Map Check
+[2018.04.24-21.47.15:641][  0]LightingResults: New page: Lighting Build
+[2018.04.24-21.47.17:866][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-21.47.17:883][  0]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.47.17:884][  0]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.47.17:884][  0]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.47.17:885][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.24-21.47.17:977][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.24-21.47.18:046][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.149ms to complete.
+[2018.04.24-21.47.18:047][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.460
+[2018.04.24-21.47.18:434][  0]LogCollectionManager: Loaded 0 collections in 0.001921 seconds
+[2018.04.24-21.47.18:527][  0]LogFileCache: Scanning file cache for directory 'C:/Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Collections/' took 0.01s
+[2018.04.24-21.47.18:527][  0]LogFileCache: Scanning file cache for directory 'C:/Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/Developers/codst/Collections/' took 0.01s
+[2018.04.24-21.47.18:527][  0]LogFileCache: Scanning file cache for directory 'C:/Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/Collections/' took 0.01s
+[2018.04.24-21.47.18:527][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.24-21.47.18:538][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2386 classes and 500 folders.
+[2018.04.24-21.47.18:612][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.04.24-21.47.20:516][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.04.24-21.47.20:577][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.04.24-21.47.20:643][  0]LogSlate: Took 0.000556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.24-21.47.20:648][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.24-21.47.20:710][  0]LogSlate: Took 0.052122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.24-21.47.20:905][  0]LogRenderer: Reallocating scene render targets to support 920x436 Format 10 NumSamples 1 (Frame:1).
+[2018.04.24-21.47.21:797][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-21.47.22:024][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0018 seconds. Added 1 classes and 2 folders.
+[2018.04.24-21.47.22:024][  0]LogLoad: (Engine Initialization) Total time: 26.07 seconds
+[2018.04.24-21.47.22:025][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.24-21.47.22:025][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.24-21.47.22:043][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.24-21.47.22:071][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.24-21.47.22:334][  2]LogAssetRegistry: Asset discovery search completed in 19.3610 seconds
+[2018.04.24-21.47.22:338][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.24-21.47.22:339][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000154 seconds (updated 0 objects)
+[2018.04.24-21.47.23:155][  4]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-21.47.58:858][ 58]LogSlate: Took 0.000855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-21.47.59:440][ 58]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 113 classes and 0 folders.
+[2018.04.24-21.48.00:480][ 58]LogSlate: Took 0.022897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.24-21.48.05:160][210]LogSlate: Took 0.070508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.04.24-21.49.56:662][714]BlueprintLog: New page: Compile HUD
+[2018.04.24-21.49.56:956][714]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.49.56:956][714]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.49.56:956][714]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.49.57:633][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset" SILENT=true
+[2018.04.24-21.49.57:698][726]LogSavePackage: Save=33.07ms
+[2018.04.24-21.49.57:698][726]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/HUDC21771D447682D83583932BF0D6ABC49.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset'
+[2018.04.24-21.49.57:706][726]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset
+[2018.04.24-21.53.02:615][112]BlueprintLog: New page: Compile HUD
+[2018.04.24-21.53.02:921][112]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.53.02:921][112]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.53.02:921][112]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.53.04:101][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset" SILENT=true
+[2018.04.24-21.53.04:165][141]LogSavePackage: Save=39.45ms
+[2018.04.24-21.53.04:165][141]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/HUDE04AD41F43116527E35700BAD0EC8E72.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset'
+[2018.04.24-21.53.04:172][141]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset
+[2018.04.24-21.53.40:508][893]BlueprintLog: New page: Compile HUD
+[2018.04.24-21.53.40:764][893]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.53.40:764][893]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.53.40:764][893]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.53.41:360][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset" SILENT=true
+[2018.04.24-21.53.41:415][903]LogSavePackage: Save=36.71ms
+[2018.04.24-21.53.41:415][903]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/HUDECC1815D4FE18873334A79813B599FDE.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset'
+[2018.04.24-21.53.41:422][903]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset
+[2018.04.24-21.53.55:327][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-21.53.55:460][ 94]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-21.53.55:460][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-21.53.55:461][ 94]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 1:53:55 PM)
+[2018.04.24-21.53.55:461][ 94]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-21.53.55:608][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.146718s)
+[2018.04.24-21.53.55:609][ 94]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-21.53.55:609][ 94]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2018.04.24-21.53.55:609][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.148089s)
+[2018.04.24-21.53.55:641][ 94]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-21.53.55:660][ 94]LogInit: FAudioDevice initialized.
+[2018.04.24-21.53.55:776][ 94]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-21.53.55:784][ 94]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.04.24-17.53.55
+[2018.04.24-21.53.55:785][ 94]LogWorld: Bringing up level for play took: 0.007417
+[2018.04.24-21.53.55:843][ 94]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2018.04.24-21.53.55:936][ 94]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.161
+[2018.04.24-21.53.55:949][ 94]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-21.54.07:787][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-21.54.07:890][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-21.54.21:541][797]BlueprintLog: New page: Compile HUD
+[2018.04.24-21.54.21:855][797]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.54.21:855][797]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.54.21:855][797]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.54.22:653][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset" SILENT=true
+[2018.04.24-21.54.22:719][813]LogSavePackage: Save=41.69ms
+[2018.04.24-21.54.22:719][813]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/HUDFED7431149B2AAE665AD3A99EEA0A872.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset'
+[2018.04.24-21.54.22:727][813]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset
+[2018.04.24-21.56.20:444][235]BlueprintLog: New page: Compile HUD
+[2018.04.24-21.56.20:694][235]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.56.20:694][235]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.56.20:694][235]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.56.21:240][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset" SILENT=true
+[2018.04.24-21.56.21:319][276]LogSavePackage: Save=52.47ms
+[2018.04.24-21.56.21:319][276]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/HUDFD9E9CB943A1FE2D3444A4AF98993EFC.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset'
+[2018.04.24-21.56.21:324][276]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset
+[2018.04.24-21.57.59:953][425]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.57.59:953][425]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.57.59:954][425]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.58.02:009][453]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.58.02:009][453]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_6:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.58.02:009][453]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_6:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.58.02:329][454]LogSlate: Took 0.029882 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.24-21.58.35:887][942]BlueprintLog: New page: Compile HUD
+[2018.04.24-21.58.36:054][942]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.58.36:054][942]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.58.36:055][942]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.58.36:247][942]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.58.36:247][942]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.58.36:247][942]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.58.36:377][942]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.58.36:377][942]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_6:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.58.36:377][942]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_6:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.58.36:586][942]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.58.36:587][942]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.58.36:587][942]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.58.36:588][942]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.58.36:588][942]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.58.36:588][942]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.58.36:590][942]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-21.58.36:590][942]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_6:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-21.58.36:590][942]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_6:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-21.58.37:042][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset" SILENT=true
+[2018.04.24-21.58.37:111][981]LogSavePackage: Save=47.74ms
+[2018.04.24-21.58.37:111][981]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/HUD6F87716B44CA98D1D8E91AB7F7781C5C.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset'
+[2018.04.24-21.58.37:117][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset
+[2018.04.24-21.59.02:546][136]LogSavePackage: Save=200.31ms
+[2018.04.24-21.59.02:546][136]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonExampleMap_Auto10EE8DEC44C13F46A095CB8A0F10B78C3.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.04.24-21.59.02:549][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.04.24-21.59.02:552][136]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.273
+[2018.04.24-21.59.02:552][136]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.273
+[2018.04.24-22.00.14:486][526]BlueprintLog: New page: Compile HUD
+[2018.04.24-22.00.14:588][526]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.00.14:588][526]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.00.14:588][526]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.00.14:758][526]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.00.14:759][526]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.00.14:886][526]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.00.14:886][526]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_6:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.00.14:886][526]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_6:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.00.15:051][526]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.00.15:051][526]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.00.15:051][526]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.00.15:053][526]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.00.15:056][526]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.00.15:056][526]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_6:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.00.15:056][526]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_6:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.00.15:395][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset" SILENT=true
+[2018.04.24-22.00.15:465][554]LogSavePackage: Save=56.49ms
+[2018.04.24-22.00.15:465][554]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/HUD9C415CEF4434D3D52DE4DCAB912C835C.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset'
+[2018.04.24-22.00.15:470][554]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset
+[2018.04.24-22.00.33:492][821]BlueprintLog: New page: Compile HUD
+[2018.04.24-22.00.33:605][821]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.00.33:605][821]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.00.33:605][821]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.00.33:757][821]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.00.33:884][821]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.00.33:884][821]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_6:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.00.34:053][821]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.00.34:055][821]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.00.34:057][821]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.00.35:022][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset" SILENT=true
+[2018.04.24-22.00.35:141][918]LogSavePackage: Save=104.53ms
+[2018.04.24-22.00.35:141][918]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/HUD707CAB8A4B7930B99277E1B7042A1F6A.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset'
+[2018.04.24-22.00.35:143][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset
+[2018.04.24-22.00.38:503][109]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-22.00.38:569][109]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.00.38:570][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-22.00.38:570][109]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 2:00:38 PM)
+[2018.04.24-22.00.38:570][109]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.00.38:612][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041822s)
+[2018.04.24-22.00.38:615][109]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.00.38:617][109]LogPlayLevel: PIE: World Init took: (0.004749s)
+[2018.04.24-22.00.38:617][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.047272s)
+[2018.04.24-22.00.38:655][109]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-22.00.38:674][109]LogInit: FAudioDevice initialized.
+[2018.04.24-22.00.38:738][109]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.00.38:741][109]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.00.38
+[2018.04.24-22.00.38:742][109]LogWorld: Bringing up level for play took: 0.003361
+[2018.04.24-22.00.38:760][109]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.663
+[2018.04.24-22.00.38:760][109]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.00.46:320][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.00.46:398][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.01.29:448][308]BlueprintLog: New page: Compile HUD
+[2018.04.24-22.01.29:568][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.29:568][308]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.01.29:568][308]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.01.29:772][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.29:903][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.30:108][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.30:108][308]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.01.30:108][308]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.01.30:110][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.30:112][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.30:579][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset" SILENT=true
+[2018.04.24-22.01.30:670][341]LogSavePackage: Save=58.84ms
+[2018.04.24-22.01.30:670][341]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/HUD4EDAA5224C042A21F3445EA0440CF457.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset'
+[2018.04.24-22.01.30:675][341]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset
+[2018.04.24-22.01.40:234][970]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.40:234][970]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.01.40:234][970]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.01.40:236][970]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.40:239][970]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.40:241][970]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.40:242][970]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.01.40:242][970]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.01.40:244][970]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.40:245][970]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.42:392][150]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.24-22.01.42:646][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.42:655][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.42:718][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.43:006][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.43:138][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.43:358][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.43:360][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.43:362][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.01.44:010][151]LogSavePackage: Save=290.20ms
+[2018.04.24-22.01.44:010][151]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonCharacterC571D36A4BFB6ECEB1AC49B952E7A48B.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.24-22.01.44:018][151]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.24-22.01.47:694][302]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-22.01.47:801][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.01.47:801][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-22.01.47:801][302]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 2:01:47 PM)
+[2018.04.24-22.01.47:801][302]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.01.47:834][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032691s)
+[2018.04.24-22.01.47:835][302]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.01.47:836][302]LogPlayLevel: PIE: World Init took: (0.001905s)
+[2018.04.24-22.01.47:836][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035024s)
+[2018.04.24-22.01.47:870][302]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-22.01.47:887][302]LogInit: FAudioDevice initialized.
+[2018.04.24-22.01.47:924][302]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.01.47:928][302]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.01.47
+[2018.04.24-22.01.47:928][302]LogWorld: Bringing up level for play took: 0.003334
+[2018.04.24-22.01.47:933][302]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.164
+[2018.04.24-22.01.47:934][302]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.01.52:752][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.01.52:846][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.02.02:266][274]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.02.02:269][274]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.02.02:271][274]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.02.02:274][274]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.02.02:276][274]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.02.02:280][274]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.02.03:779][404]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.24-22.02.04:050][404]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.02.04:050][404]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.02.04:050][404]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.02.04:058][404]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.02.04:058][404]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.02.04:058][404]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.02.04:119][404]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.02.04:119][404]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.02.04:119][404]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.02.04:428][404]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.02.04:575][404]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.02.04:793][404]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.02.04:793][404]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.02.04:793][404]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.02.04:795][404]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.02.04:797][404]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.02.05:596][421]LogSavePackage: Save=289.89ms
+[2018.04.24-22.02.05:596][421]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonCharacter7A414F33475AB27E9ABFC59DB2188E7B.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.24-22.02.05:600][421]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.24-22.02.08:004][517]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-22.02.08:090][517]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.02.08:090][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-22.02.08:090][517]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 2:02:08 PM)
+[2018.04.24-22.02.08:090][517]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.02.08:121][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030591s)
+[2018.04.24-22.02.08:122][517]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.02.08:122][517]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2018.04.24-22.02.08:122][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032044s)
+[2018.04.24-22.02.08:155][517]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-22.02.08:171][517]LogInit: FAudioDevice initialized.
+[2018.04.24-22.02.08:206][517]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.02.08:212][517]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.02.08
+[2018.04.24-22.02.08:212][517]LogWorld: Bringing up level for play took: 0.005964
+[2018.04.24-22.02.08:215][517]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.118
+[2018.04.24-22.02.08:215][517]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.02.17:048][784]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.02.17:125][784]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.03.24:888][115]BlueprintLog: New page: Compile HUD
+[2018.04.24-22.03.25:011][115]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.03.25:011][115]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_3
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.03.25:011][115]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_3
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.03.25:200][115]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.03.25:334][115]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.03.25:529][115]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.03.25:530][115]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_3
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.03.25:530][115]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_3
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.03.25:531][115]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.03.25:533][115]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.03.26:003][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset" SILENT=true
+[2018.04.24-22.03.26:084][155]LogSavePackage: Save=64.97ms
+[2018.04.24-22.03.26:084][155]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/HUD93B0189242FA2A1597D5CDA904CD6041.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset'
+[2018.04.24-22.03.26:093][155]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/HUD.uasset
+[2018.04.24-22.03.30:445][439]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-22.03.30:510][439]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.03.30:510][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-22.03.30:510][439]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 2:03:30 PM)
+[2018.04.24-22.03.30:510][439]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.03.30:546][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035787s)
+[2018.04.24-22.03.30:547][439]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.03.30:547][439]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2018.04.24-22.03.30:548][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.037455s)
+[2018.04.24-22.03.30:585][439]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-22.03.30:601][439]LogInit: FAudioDevice initialized.
+[2018.04.24-22.03.30:640][439]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.03.30:644][439]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.03.30
+[2018.04.24-22.03.30:644][439]LogWorld: Bringing up level for play took: 0.003602
+[2018.04.24-22.03.30:647][439]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.55
+[2018.04.24-22.03.30:647][439]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.03.35:607][600]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.03.35:688][600]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.07.07:925][351]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.07.08:484][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.07.08:546][406]LogSavePackage: Save=32.63ms
+[2018.04.24-22.07.08:546][406]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu3D865A02426211DE2674CCB8B23A0CE4.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.07.08:550][406]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.08.16:045][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_6.WidgetTree_8.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_5.WidgetTree_7.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_4.WidgetTree_6.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_1.WidgetTree_1.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_3.WidgetTree_5.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_2:WidgetTree.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_8.WidgetTree_13.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_2.WidgetTree_11.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_7.WidgetTree_9.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_9:WidgetTree.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_14.WidgetTree_30.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_11:WidgetTree.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_16.WidgetTree_80.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_13:WidgetTree.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_10.WidgetTree_17.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_11.WidgetTree_18.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_12.WidgetTree_19.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_18:WidgetTree.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_26:WidgetTree.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_15.WidgetTree_31.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_17.WidgetTree_25.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_18.WidgetTree_26.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_22:WidgetTree.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_20.WidgetTree_41.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/MainMenu.MainMenu:WidgetTree.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MainMenu_C_1.WidgetTree_79.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_30:WidgetTree.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_36:WidgetTree.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/HUD.HUD_C:WidgetTree.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:HUD_C_19.WidgetTree_56.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MainMenu_C_2.WidgetTree_63.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MainMenu_C_3.WidgetTree_64.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MainMenu_C_4.WidgetTree_65.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MainMenu_C_5.WidgetTree_66.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MainMenu_C_6.WidgetTree_67.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MainMenu_C_7.WidgetTree_68.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MainMenu_C_8.WidgetTree_69.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MainMenu_C_9.WidgetTree_70.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MainMenu_C_10.WidgetTree_71.CanvasPanel_0
+[2018.04.24-22.08.16:046][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MainMenu_C_11.WidgetTree_72.CanvasPanel_0
+[2018.04.24-22.08.16:047][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MainMenu_C_12.WidgetTree_73.CanvasPanel_0
+[2018.04.24-22.08.16:047][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MainMenu_C_13.WidgetTree_74.CanvasPanel_0
+[2018.04.24-22.08.16:047][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MainMenu_C_14.WidgetTree_75.CanvasPanel_0
+[2018.04.24-22.08.16:047][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MainMenu_C_15.WidgetTree_76.CanvasPanel_0
+[2018.04.24-22.08.16:047][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_MainMenu_C_53:WidgetTree.CanvasPanel_0
+[2018.04.24-22.08.16:047][556]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0
+[2018.04.24-22.08.16:062][556]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/HUD.HUD:WidgetTree.CanvasPanel_0.CanvasPanelSlot_1) from referencer (VerticalBox /Engine/UMG/Editor/Transient.VerticalBox_0).  Import failed...
+[2018.04.24-22.08.16:063][556]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'CanvasPanel_0.CanvasPanelSlot_1''
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_6.WidgetTree_8.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_5.WidgetTree_7.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_4.WidgetTree_6.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_1.WidgetTree_1.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_3.WidgetTree_5.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_2:WidgetTree.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_2.WidgetTree_11.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_11:WidgetTree.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_7.WidgetTree_9.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_9:WidgetTree.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_13:WidgetTree.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_8:MainMenu_C_16.WidgetTree_81.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_8.WidgetTree_13.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_20.WidgetTree_41.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_10.WidgetTree_17.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_11.WidgetTree_18.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_12.WidgetTree_19.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_18:WidgetTree.VerticalBox_1
+[2018.04.24-22.08.37:686][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_15.WidgetTree_31.VerticalBox_1
+[2018.04.24-22.08.37:687][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_14.WidgetTree_30.VerticalBox_1
+[2018.04.24-22.08.37:687][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_17.WidgetTree_25.VerticalBox_1
+[2018.04.24-22.08.37:687][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_18.WidgetTree_26.VerticalBox_1
+[2018.04.24-22.08.37:687][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_22:WidgetTree.VerticalBox_1
+[2018.04.24-22.08.37:687][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_16.WidgetTree_80.VerticalBox_1
+[2018.04.24-22.08.37:687][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_26:WidgetTree.VerticalBox_1
+[2018.04.24-22.08.37:687][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_30:WidgetTree.VerticalBox_1
+[2018.04.24-22.08.37:687][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Game/MainMenu.MainMenu:WidgetTree.VerticalBox_1
+[2018.04.24-22.08.37:687][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_36:WidgetTree.VerticalBox_1
+[2018.04.24-22.08.37:687][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Game/HUD.HUD_C:WidgetTree.VerticalBox_1
+[2018.04.24-22.08.37:687][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_4:HUD_C_19.WidgetTree_56.VerticalBox_1
+[2018.04.24-22.08.37:687][624]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/MainMenu.MainMenu:WidgetTree.VerticalBox_1.VerticalBoxSlot_2 or VerticalBoxSlot /Engine/Transient.World_8:MainMenu_C_16.WidgetTree_81.VerticalBox_1.VerticalBoxSlot_2
+[2018.04.24-22.08.37:687][624]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/MainMenu.MainMenu:WidgetTree.VerticalBox_1.VerticalBoxSlot_2) from referencer (Button /Engine/UMG/Editor/Transient.Button_5).  Import failed...
+[2018.04.24-22.08.37:687][624]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'VerticalBox_1.VerticalBoxSlot_2''
+[2018.04.24-22.11.33:481][727]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.11.34:024][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.11.34:102][769]LogSavePackage: Save=51.84ms
+[2018.04.24-22.11.34:102][769]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu02D860A0402CB76332C5B58FAA6C72A4.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.11.34:107][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.11.59:036][481]LogSavePackage: Save=171.43ms
+[2018.04.24-22.11.59:036][481]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonExampleMap_Auto2E6E0BD0F421972DB18F46C8F16261A5C.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.04.24-22.11.59:040][481]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.04.24-22.11.59:044][481]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.255
+[2018.04.24-22.11.59:044][481]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.255
+[2018.04.24-22.14.17:723][164]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.14.18:297][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.14.18:385][210]LogSavePackage: Save=54.20ms
+[2018.04.24-22.14.18:385][210]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu97C5D4B548B437A3BC61D0AC2DEA2C22.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.14.18:390][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.14.32:352][385]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.14.33:257][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.14.33:331][458]LogSavePackage: Save=58.87ms
+[2018.04.24-22.14.33:331][458]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu01BE4FA445DF284CB27847BD5741EBFF.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.14.33:336][458]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.14.48:229][598]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.14.48:839][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.14.48:907][646]LogSavePackage: Save=54.26ms
+[2018.04.24-22.14.48:907][646]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu42432D114DBEF654E0797194C1C2F912.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.14.48:912][646]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.18.02:445][869]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2018.04.24-22.18.02:456][869]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2018.04.24-22.18.03:430][869]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2018.04.24-22.18.03:496][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_25, compiling. 
+[2018.04.24-22.18.03:508][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionBumpOffset_3, compiling. 
+[2018.04.24-22.18.03:518][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2018.04.24-22.18.03:529][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.04.24-22.18.03:539][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.04.24-22.18.03:548][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_7, compiling. 
+[2018.04.24-22.18.03:556][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_26, compiling. 
+[2018.04.24-22.18.56:994][417]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.18.57:886][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.18.57:958][485]LogSavePackage: Save=53.05ms
+[2018.04.24-22.18.57:958][485]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu5B1D637F4221E34BFD62D1BDAF525505.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.18.57:965][485]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.19.52:186][624]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.19.52:970][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.19.53:045][688]LogSavePackage: Save=53.33ms
+[2018.04.24-22.19.53:045][688]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu6E78402C4EBC725BA1A3838A407DFFB4.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.19.53:053][688]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.20.32:950][720]LogEditorTransaction: Undo Move Anchor
+[2018.04.24-22.21.07:748][389]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.21.08:488][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.21.08:557][440]LogSavePackage: Save=52.17ms
+[2018.04.24-22.21.08:557][440]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenuC324C5814AAE929B07012CA3054D63C5.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.21.08:564][440]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.21.49:273][853]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.21.49:745][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.21.49:819][896]LogSavePackage: Save=53.21ms
+[2018.04.24-22.21.49:819][896]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenuF28EB969450570D72279F6B8A8B481FE.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.21.49:825][896]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.22.32:378][636]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.22.32:680][654]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.22.33:512][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.22.33:579][726]LogSavePackage: Save=53.11ms
+[2018.04.24-22.22.33:579][726]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu0878588D4E954FC72F5F04B5E04B1836.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.22.33:584][726]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.23.34:038][610]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.042
+[2018.04.24-22.23.34:040][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu] ([1] browsable assets)...
+[2018.04.24-22.23.34:040][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu]
+[2018.04.24-22.23.34:106][610]LogSavePackage: Save=50.85ms
+[2018.04.24-22.23.34:106][610]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu_Auto3205813D04FC1CA1E6082F583604B0CAA.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/MainMenu_Auto3.uasset'
+[2018.04.24-22.23.34:109][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Autosaves/Game/MainMenu_Auto3.uasset
+[2018.04.24-22.23.34:110][610]LogFileHelpers: Auto-saving content packages took 0.071
+[2018.04.24-22.25.06:803][337]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.25.07:426][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.25.07:525][398]LogSavePackage: Save=69.18ms
+[2018.04.24-22.25.07:525][398]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu50D5E6A44FA9696FE1B6D2B3B3C1D53C.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.25.07:529][398]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.25.22:003][285]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.25.22:678][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.25.22:752][345]LogSavePackage: Save=60.08ms
+[2018.04.24-22.25.22:752][345]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu35F2B7E04EADC7445DA900AF0AE211D4.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.25.22:756][345]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.27.02:210][  5]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.27.02:703][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.27.02:793][ 46]LogSavePackage: Save=71.83ms
+[2018.04.24-22.27.02:793][ 46]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu14E7478F42D061C6E6E1A9A6B151B077.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.27.02:798][ 46]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.29.15:597][  6]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.29.16:381][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.29.16:485][ 87]LogSavePackage: Save=84.04ms
+[2018.04.24-22.29.16:485][ 87]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu44C53AC946E9A71326D10AB9913410A2.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.29.16:490][ 87]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.29.52:017][279]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.29.52:527][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.29.52:628][321]LogSavePackage: Save=84.64ms
+[2018.04.24-22.29.52:628][321]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenuBC60C6F847ABA9220E6973A44C281E02.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.29.52:634][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.30.19:780][331]BlueprintLog: New page: Compile MainMenu
+[2018.04.24-22.30.20:277][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.30.20:392][377]LogSavePackage: Save=91.66ms
+[2018.04.24-22.30.20:392][377]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu456A34BE4CFC1007F07C0CAF40DEE1E9.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.30.20:396][377]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.32.43:910][102]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.04.24-22.32.43:950][102]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2018.04.24-22.32.44:033][102]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [2748.08] Compile of PersistentLevel.ThirdPersonExampleMap failed. 1 Fatal Issue(s) 0 Warning(s) [in 122 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.04.24-22.32.49:615][756]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.04.24-22.32.50:530][819]LogSavePackage: Save=165.53ms
+[2018.04.24-22.32.50:530][819]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonExampleMap9DF1ED6249AB55DFF0CCA7A17A0133A9.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.24-22.32.50:535][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.24-22.32.50:602][819]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.387
+[2018.04.24-22.33.58:519][755]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.24-22.33.58:746][755]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.33.58:747][755]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.33.58:747][755]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.33.58:754][755]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.33.58:755][755]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.33.58:755][755]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.33.58:784][755]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.33.58:784][755]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.33.58:784][755]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.33.59:055][755]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.33.59:186][755]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.33.59:377][755]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.33.59:377][755]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02AC
+[2018.04.24-22.33.59:377][755]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:012D
+[2018.04.24-22.33.59:379][755]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.33.59:381][755]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeapon_C)
+[2018.04.24-22.34.00:105][778]LogSavePackage: Save=261.02ms
+[2018.04.24-22.34.00:105][778]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonCharacter0D83CD0A40A3D6C9E2A1B7AA1986B08F.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.24-22.34.00:109][778]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.24-22.34.29:354][585]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.24-22.35.04:551][501]LogSavePackage: Save=170.84ms
+[2018.04.24-22.35.04:551][501]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonExampleMap63729B5B4B3080FE0F6EDDBE5913095E.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.24-22.35.04:556][501]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.24-22.35.05:327][501]LogSavePackage: Save=611.75ms
+[2018.04.24-22.35.05:327][501]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonExampleMap_BuiltData6768EACB4E1267ACB9A315A44763C290.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.24-22.35.05:330][501]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.24-22.35.15:025][639]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-22.35.15:115][639]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.35.15:115][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-22.35.15:115][639]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 2:35:15 PM)
+[2018.04.24-22.35.15:115][639]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.35.15:142][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026625s)
+[2018.04.24-22.35.15:143][639]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.35.15:143][639]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2018.04.24-22.35.15:143][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028154s)
+[2018.04.24-22.35.15:174][639]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-22.35.15:191][639]LogInit: FAudioDevice initialized.
+[2018.04.24-22.35.15:225][639]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.35.15:228][639]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.35.15
+[2018.04.24-22.35.15:229][639]LogWorld: Bringing up level for play took: 0.003347
+[2018.04.24-22.35.15:260][639]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.163
+[2018.04.24-22.35.15:261][639]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.35.21:133][855]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.35.21:151][855]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.35.21:206][855]Cmd: MEM
+[2018.04.24-22.35.21:445][855]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-22.35.21:445][855]LogMemory: Process Physical Memory: 1569.23 MB used, 2614.61 MB peak
+[2018.04.24-22.35.21:445][855]LogMemory: Process Virtual Memory: 3084.48 MB used, 3093.08 MB peak
+[2018.04.24-22.35.21:445][855]LogMemory: Physical Memory: 5358.79 MB used,  6797.34 MB free, 12156.13 MB total
+[2018.04.24-22.35.21:445][855]LogMemory: Virtual Memory: 3978.18 MB used,  6797.34 MB free, 134217728.00 MB total
+[2018.04.24-22.35.21:445][855]LogMemory: 
+[2018.04.24-22.35.21:445][855]Allocator Stats for TBB: (not implemented)
+[2018.04.24-22.35.21:483][855]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.35.21:508][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025326s)
+[2018.04.24-22.35.21:509][855]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.35.21:510][855]LogPlayLevel: PIE: World Init took: (0.001395s)
+[2018.04.24-22.35.21:510][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027792s)
+[2018.04.24-22.35.21:511][855]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.35.21:515][855]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.35.21
+[2018.04.24-22.35.21:515][855]LogWorld: Bringing up level for play took: 0.003342
+[2018.04.24-22.35.21:536][855]LogLoad: Took 0.385627 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.04.24-22.35.22:744][897]Cmd: r.setRes 640x480
+[2018.04.24-22.35.22:744][897]r.SetRes = "640x480"
+[2018.04.24-22.35.23:476][925]Cmd: r.setRes 1280x720
+[2018.04.24-22.35.23:477][925]r.SetRes = "1280x720"
+[2018.04.24-22.35.23:985][944]Cmd: r.setRes 1920x1080
+[2018.04.24-22.35.23:985][944]r.SetRes = "1920x1080"
+[2018.04.24-22.35.25:867][ 14]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.35.25:889][ 14]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.35.25:935][ 14]Cmd: MEM
+[2018.04.24-22.35.25:966][ 14]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-22.35.25:966][ 14]LogMemory: Process Physical Memory: 1673.66 MB used, 2614.61 MB peak
+[2018.04.24-22.35.25:966][ 14]LogMemory: Process Virtual Memory: 3180.68 MB used, 3209.78 MB peak
+[2018.04.24-22.35.25:966][ 14]LogMemory: Physical Memory: 5470.66 MB used,  6685.47 MB free, 12156.13 MB total
+[2018.04.24-22.35.25:966][ 14]LogMemory: Virtual Memory: 4090.83 MB used,  6685.47 MB free, 134217728.00 MB total
+[2018.04.24-22.35.25:966][ 14]LogMemory: 
+[2018.04.24-22.35.25:966][ 14]Allocator Stats for TBB: (not implemented)
+[2018.04.24-22.35.25:966][ 14]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.35.25:993][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026682s)
+[2018.04.24-22.35.25:994][ 14]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.35.25:994][ 14]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2018.04.24-22.35.25:994][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028190s)
+[2018.04.24-22.35.25:994][ 14]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.35.25:998][ 14]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.35.25
+[2018.04.24-22.35.25:999][ 14]LogWorld: Bringing up level for play took: 0.004140
+[2018.04.24-22.35.26:003][ 14]LogLoad: Took 0.114643 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.04.24-22.35.26:519][ 31]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.35.26:543][ 31]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.35.26:589][ 31]Cmd: MEM
+[2018.04.24-22.35.26:620][ 31]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-22.35.26:620][ 31]LogMemory: Process Physical Memory: 1681.81 MB used, 2614.61 MB peak
+[2018.04.24-22.35.26:620][ 31]LogMemory: Process Virtual Memory: 3189.25 MB used, 3209.78 MB peak
+[2018.04.24-22.35.26:620][ 31]LogMemory: Physical Memory: 5476.27 MB used,  6679.86 MB free, 12156.13 MB total
+[2018.04.24-22.35.26:620][ 31]LogMemory: Virtual Memory: 4099.39 MB used,  6679.86 MB free, 134217728.00 MB total
+[2018.04.24-22.35.26:620][ 31]LogMemory: 
+[2018.04.24-22.35.26:620][ 31]Allocator Stats for TBB: (not implemented)
+[2018.04.24-22.35.26:621][ 31]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.35.26:645][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023661s)
+[2018.04.24-22.35.26:645][ 31]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.35.26:646][ 31]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2018.04.24-22.35.26:646][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025158s)
+[2018.04.24-22.35.26:646][ 31]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.35.26:649][ 31]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.35.26
+[2018.04.24-22.35.26:650][ 31]LogWorld: Bringing up level for play took: 0.003351
+[2018.04.24-22.35.26:654][ 31]LogLoad: Took 0.110483 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.04.24-22.35.30:125][158]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.35.30:165][158]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.35.50:171][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2018.04.24-22.36.47:622][251]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-22.36.47:678][251]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.36.47:679][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-22.36.47:679][251]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 2:36:47 PM)
+[2018.04.24-22.36.47:679][251]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.36.47:714][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034954s)
+[2018.04.24-22.36.47:716][251]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.36.47:716][251]LogPlayLevel: PIE: World Init took: (0.001976s)
+[2018.04.24-22.36.47:717][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.037669s)
+[2018.04.24-22.36.47:757][251]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-22.36.47:775][251]LogInit: FAudioDevice initialized.
+[2018.04.24-22.36.47:807][251]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.36.47:811][251]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.36.47
+[2018.04.24-22.36.47:812][251]LogWorld: Bringing up level for play took: 0.004271
+[2018.04.24-22.36.47:816][251]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.281
+[2018.04.24-22.36.47:816][251]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.36.49:633][306]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.36.49:655][306]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.36.49:713][306]Cmd: MEM
+[2018.04.24-22.36.49:750][306]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-22.36.49:750][306]LogMemory: Process Physical Memory: 1643.10 MB used, 2614.61 MB peak
+[2018.04.24-22.36.49:750][306]LogMemory: Process Virtual Memory: 3179.57 MB used, 3209.78 MB peak
+[2018.04.24-22.36.49:750][306]LogMemory: Physical Memory: 5463.89 MB used,  6692.23 MB free, 12156.13 MB total
+[2018.04.24-22.36.49:750][306]LogMemory: Virtual Memory: 4138.97 MB used,  6692.23 MB free, 134217728.00 MB total
+[2018.04.24-22.36.49:750][306]LogMemory: 
+[2018.04.24-22.36.49:750][306]Allocator Stats for TBB: (not implemented)
+[2018.04.24-22.36.49:750][306]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.36.49:778][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028158s)
+[2018.04.24-22.36.49:782][306]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.36.49:784][306]LogPlayLevel: PIE: World Init took: (0.004995s)
+[2018.04.24-22.36.49:784][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033681s)
+[2018.04.24-22.36.49:784][306]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.36.49:788][306]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.36.49
+[2018.04.24-22.36.49:788][306]LogWorld: Bringing up level for play took: 0.003471
+[2018.04.24-22.36.49:792][306]LogLoad: Took 0.137727 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.04.24-22.36.50:404][324]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.36.50:427][324]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.36.50:493][324]Cmd: MEM
+[2018.04.24-22.36.50:524][324]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-22.36.50:524][324]LogMemory: Process Physical Memory: 1754.34 MB used, 2614.61 MB peak
+[2018.04.24-22.36.50:524][324]LogMemory: Process Virtual Memory: 3296.86 MB used, 3305.44 MB peak
+[2018.04.24-22.36.50:524][324]LogMemory: Physical Memory: 5575.99 MB used,  6580.14 MB free, 12156.13 MB total
+[2018.04.24-22.36.50:524][324]LogMemory: Virtual Memory: 4203.07 MB used,  6580.14 MB free, 134217728.00 MB total
+[2018.04.24-22.36.50:524][324]LogMemory: 
+[2018.04.24-22.36.50:524][324]Allocator Stats for TBB: (not implemented)
+[2018.04.24-22.36.50:525][324]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.36.50:555][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030571s)
+[2018.04.24-22.36.50:556][324]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.36.50:557][324]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2018.04.24-22.36.50:557][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032080s)
+[2018.04.24-22.36.50:557][324]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.36.50:560][324]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.36.50
+[2018.04.24-22.36.50:560][324]LogWorld: Bringing up level for play took: 0.003203
+[2018.04.24-22.36.50:567][324]LogLoad: Took 0.139776 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.04.24-22.36.52:783][395]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.36.52:809][395]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.36.52:860][395]Cmd: MEM
+[2018.04.24-22.36.52:893][395]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-22.36.52:893][395]LogMemory: Process Physical Memory: 1754.85 MB used, 2614.61 MB peak
+[2018.04.24-22.36.52:893][395]LogMemory: Process Virtual Memory: 3296.86 MB used, 3318.03 MB peak
+[2018.04.24-22.36.52:893][395]LogMemory: Physical Memory: 5575.66 MB used,  6580.47 MB free, 12156.13 MB total
+[2018.04.24-22.36.52:893][395]LogMemory: Virtual Memory: 4203.07 MB used,  6580.47 MB free, 134217728.00 MB total
+[2018.04.24-22.36.52:893][395]LogMemory: 
+[2018.04.24-22.36.52:893][395]Allocator Stats for TBB: (not implemented)
+[2018.04.24-22.36.52:893][395]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.36.52:923][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030393s)
+[2018.04.24-22.36.52:924][395]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.36.52:924][395]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2018.04.24-22.36.52:924][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031669s)
+[2018.04.24-22.36.52:925][395]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.36.52:928][395]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.36.52
+[2018.04.24-22.36.52:928][395]LogWorld: Bringing up level for play took: 0.003202
+[2018.04.24-22.36.52:935][395]LogLoad: Took 0.126125 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.04.24-22.36.53:974][427]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.36.54:085][427]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.38.40:701][ 31]LogSavePackage: Save=194.90ms
+[2018.04.24-22.38.40:701][ 31]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonExampleMap04EE7C694FEF2FF77D86858298D38C15.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.24-22.38.40:705][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.24-22.38.41:339][ 31]LogSavePackage: Save=550.22ms
+[2018.04.24-22.38.41:339][ 31]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonExampleMap_BuiltData3C44101D49687B231FD22190EF63BA82.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.24-22.38.41:341][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.24-22.38.42:936][ 85]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-22.38.42:990][ 85]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.38.42:990][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-22.38.42:990][ 85]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 2:38:42 PM)
+[2018.04.24-22.38.42:991][ 85]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.38.43:022][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031372s)
+[2018.04.24-22.38.43:024][ 85]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.38.43:024][ 85]LogPlayLevel: PIE: World Init took: (0.001879s)
+[2018.04.24-22.38.43:025][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033916s)
+[2018.04.24-22.38.43:056][ 85]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-22.38.43:071][ 85]LogInit: FAudioDevice initialized.
+[2018.04.24-22.38.43:107][ 85]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.38.43:113][ 85]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.38.43
+[2018.04.24-22.38.43:114][ 85]LogWorld: Bringing up level for play took: 0.005834
+[2018.04.24-22.38.43:119][ 85]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.022
+[2018.04.24-22.38.43:119][ 85]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.38.44:428][128]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.38.44:453][128]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.38.44:505][128]Cmd: MEM
+[2018.04.24-22.38.44:537][128]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-22.38.44:537][128]LogMemory: Process Physical Memory: 1766.70 MB used, 2614.61 MB peak
+[2018.04.24-22.38.44:537][128]LogMemory: Process Virtual Memory: 3315.85 MB used, 3318.03 MB peak
+[2018.04.24-22.38.44:537][128]LogMemory: Physical Memory: 5633.25 MB used,  6522.88 MB free, 12156.13 MB total
+[2018.04.24-22.38.44:537][128]LogMemory: Virtual Memory: 4271.56 MB used,  6522.88 MB free, 134217728.00 MB total
+[2018.04.24-22.38.44:537][128]LogMemory: 
+[2018.04.24-22.38.44:537][128]Allocator Stats for TBB: (not implemented)
+[2018.04.24-22.38.44:537][128]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.38.44:565][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028204s)
+[2018.04.24-22.38.44:567][128]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.38.44:567][128]LogPlayLevel: PIE: World Init took: (0.001745s)
+[2018.04.24-22.38.44:569][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031602s)
+[2018.04.24-22.38.44:569][128]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.38.44:573][128]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.38.44
+[2018.04.24-22.38.44:573][128]LogWorld: Bringing up level for play took: 0.003454
+[2018.04.24-22.38.44:577][128]LogLoad: Took 0.123929 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.04.24-22.38.44:773][132]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.38.44:784][132]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.38.44:829][132]Cmd: MEM
+[2018.04.24-22.38.44:858][132]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-22.38.44:858][132]LogMemory: Process Physical Memory: 1881.91 MB used, 2614.61 MB peak
+[2018.04.24-22.38.44:858][132]LogMemory: Process Virtual Memory: 3433.40 MB used, 3441.98 MB peak
+[2018.04.24-22.38.44:858][132]LogMemory: Physical Memory: 5735.50 MB used,  6420.63 MB free, 12156.13 MB total
+[2018.04.24-22.38.44:858][132]LogMemory: Virtual Memory: 4335.65 MB used,  6420.63 MB free, 134217728.00 MB total
+[2018.04.24-22.38.44:858][132]LogMemory: 
+[2018.04.24-22.38.44:858][132]Allocator Stats for TBB: (not implemented)
+[2018.04.24-22.38.44:859][132]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.38.44:888][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028524s)
+[2018.04.24-22.38.44:889][132]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.38.44:890][132]LogPlayLevel: PIE: World Init took: (0.001781s)
+[2018.04.24-22.38.44:890][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030887s)
+[2018.04.24-22.38.44:890][132]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.38.44:894][132]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.38.44
+[2018.04.24-22.38.44:894][132]LogWorld: Bringing up level for play took: 0.003372
+[2018.04.24-22.38.44:898][132]LogLoad: Took 0.113409 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.04.24-22.38.45:908][167]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.38.45:933][167]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.38.45:982][167]Cmd: MEM
+[2018.04.24-22.38.46:014][167]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-22.38.46:014][167]LogMemory: Process Physical Memory: 1886.55 MB used, 2614.61 MB peak
+[2018.04.24-22.38.46:014][167]LogMemory: Process Virtual Memory: 3433.40 MB used, 3454.56 MB peak
+[2018.04.24-22.38.46:014][167]LogMemory: Physical Memory: 5746.72 MB used,  6409.41 MB free, 12156.13 MB total
+[2018.04.24-22.38.46:014][167]LogMemory: Virtual Memory: 4335.65 MB used,  6409.41 MB free, 134217728.00 MB total
+[2018.04.24-22.38.46:014][167]LogMemory: 
+[2018.04.24-22.38.46:014][167]Allocator Stats for TBB: (not implemented)
+[2018.04.24-22.38.46:014][167]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.38.46:044][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028888s)
+[2018.04.24-22.38.46:044][167]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.38.46:045][167]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2018.04.24-22.38.46:045][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030192s)
+[2018.04.24-22.38.46:045][167]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.38.46:048][167]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.38.46
+[2018.04.24-22.38.46:049][167]LogWorld: Bringing up level for play took: 0.003274
+[2018.04.24-22.38.46:052][167]LogLoad: Took 0.119530 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.04.24-22.38.47:242][209]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.38.47:268][209]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.38.47:316][209]Cmd: MEM
+[2018.04.24-22.38.47:346][209]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-22.38.47:346][209]LogMemory: Process Physical Memory: 1898.59 MB used, 2614.61 MB peak
+[2018.04.24-22.38.47:346][209]LogMemory: Process Virtual Memory: 3441.98 MB used, 3454.56 MB peak
+[2018.04.24-22.38.47:346][209]LogMemory: Physical Memory: 5755.82 MB used,  6400.31 MB free, 12156.13 MB total
+[2018.04.24-22.38.47:346][209]LogMemory: Virtual Memory: 4344.21 MB used,  6400.31 MB free, 134217728.00 MB total
+[2018.04.24-22.38.47:346][209]LogMemory: 
+[2018.04.24-22.38.47:346][209]Allocator Stats for TBB: (not implemented)
+[2018.04.24-22.38.47:346][209]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.38.47:373][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026941s)
+[2018.04.24-22.38.47:374][209]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.38.47:374][209]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2018.04.24-22.38.47:374][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028313s)
+[2018.04.24-22.38.47:374][209]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.38.47:378][209]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.38.47
+[2018.04.24-22.38.47:378][209]LogWorld: Bringing up level for play took: 0.003508
+[2018.04.24-22.38.47:384][209]LogLoad: Took 0.116456 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.04.24-22.38.48:555][250]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.38.48:577][250]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.24-22.38.48:627][250]Cmd: MEM
+[2018.04.24-22.38.48:660][250]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-22.38.48:661][250]LogMemory: Process Physical Memory: 1868.84 MB used, 2614.61 MB peak
+[2018.04.24-22.38.48:661][250]LogMemory: Process Virtual Memory: 3412.39 MB used, 3458.01 MB peak
+[2018.04.24-22.38.48:661][250]LogMemory: Physical Memory: 5728.71 MB used,  6427.42 MB free, 12156.13 MB total
+[2018.04.24-22.38.48:661][250]LogMemory: Virtual Memory: 4360.21 MB used,  6427.42 MB free, 134217728.00 MB total
+[2018.04.24-22.38.48:661][250]LogMemory: 
+[2018.04.24-22.38.48:661][250]Allocator Stats for TBB: (not implemented)
+[2018.04.24-22.38.48:661][250]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-22.38.48:688][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026791s)
+[2018.04.24-22.38.48:689][250]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-22.38.48:689][250]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2018.04.24-22.38.48:689][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028232s)
+[2018.04.24-22.38.48:689][250]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-22.38.48:693][250]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-18.38.48
+[2018.04.24-22.38.48:693][250]LogWorld: Bringing up level for play took: 0.003485
+[2018.04.24-22.38.48:698][250]LogLoad: Took 0.120965 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.04.24-22.38.52:068][371]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.38.52:173][371]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-22.43.17:410][742]LogSavePackage: Save=19.22ms
+[2018.04.24-22.43.17:410][742]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/ThirdPersonGameMode80D4016549CA0740A167ADAFB5AF5E51.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.04.24-22.43.17:415][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.04.24-22.43.17:422][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset" SILENT=true
+[2018.04.24-22.43.17:530][742]LogSavePackage: Save=87.16ms
+[2018.04.24-22.43.17:530][742]LogSavePackage: Moving '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/MainMenu09BD82954D2015D361FCEAAF46DA45C9.tmp' to '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset'
+[2018.04.24-22.43.17:536][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/MainMenu.uasset
+[2018.04.24-22.43.20:486][803]Cmd: QUIT_EDITOR
+[2018.04.24-22.43.21:263][803]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.24-22.43.21:295][803]LogExit: Preparing to exit.
+[2018.04.24-22.43.22:721][803]LogDirectoryWatcher: A directory notification for 'C:/Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/' was aborted.
+[2018.04.24-22.43.22:977][803]LogExit: Editor shut down
+[2018.04.24-22.43.23:024][803]LogExit: Transaction tracking system shut down
+[2018.04.24-22.43.23:236][803]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.24-22.43.23:236][803]LogDirectoryWatcher: A directory notification for '../../../../../../Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/' was aborted.
+[2018.04.24-22.43.23:236][803]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.24-22.43.23:237][803]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.24-22.43.23:237][803]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.24-22.43.23:621][803]LogExit: Object subsystem successfully closed.
+[2018.04.24-22.43.23:676][803]LogD3D11RHI: Shutdown
+[2018.04.24-22.43.23:676][803]LogD3D11RHI: CleanupD3DDevice
+[2018.04.24-22.43.24:201][803]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.24-22.43.24:283][803]LogModuleManager: Shutting down and abandoning module MaterialEditor (540)
+[2018.04.24-22.43.24:283][803]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (538)
+[2018.04.24-22.43.24:293][803]LogModuleManager: Shutting down and abandoning module SequencerWidgets (536)
+[2018.04.24-22.43.24:293][803]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2018.04.24-22.43.24:294][803]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2018.04.24-22.43.24:304][803]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.04.24-22.43.24:304][803]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.04.24-22.43.24:315][803]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.04.24-22.43.24:326][803]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.04.24-22.43.24:343][803]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.04.24-22.43.24:344][803]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.04.24-22.43.24:344][803]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.04.24-22.43.24:344][803]LogDirectoryWatcher: A directory notification for 'C:/Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/Collections/' was aborted.
+[2018.04.24-22.43.24:344][803]LogDirectoryWatcher: A directory notification for 'C:/Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Content/Developers/codst/Collections/' was aborted.
+[2018.04.24-22.43.24:344][803]LogDirectoryWatcher: A directory notification for 'C:/Users/codst/OneDrive/Documents/GitHub/FinalProjectG300/MyProject/Saved/Collections/' was aborted.
+[2018.04.24-22.43.24:344][803]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.04.24-22.43.24:344][803]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.04.24-22.43.24:344][803]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.04.24-22.43.24:345][803]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.04.24-22.43.24:346][803]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.04.24-22.43.24:346][803]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.04.24-22.43.24:346][803]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.04.24-22.43.24:346][803]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.04.24-22.43.24:346][803]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.04.24-22.43.24:346][803]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.04.24-22.43.24:346][803]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.04.24-22.43.24:346][803]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.04.24-22.43.24:346][803]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.04.24-22.43.24:346][803]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.04.24-22.43.24:346][803]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.04.24-22.43.24:811][803]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.04.24-22.43.24:811][803]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.04.24-22.43.24:812][803]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.04.24-22.43.24:812][803]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.04.24-22.43.24:822][803]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.04.24-22.43.24:822][803]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.04.24-22.43.24:839][803]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.04.24-22.43.24:839][803]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.04.24-22.43.24:840][803]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.04.24-22.43.24:843][803]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.04.24-22.43.24:843][803]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.04.24-22.43.24:874][803]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.04.24-22.43.24:874][803]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.04.24-22.43.24:875][803]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.04.24-22.43.24:875][803]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.04.24-22.43.24:877][803]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.04.24-22.43.24:878][803]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.04.24-22.43.24:879][803]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.04.24-22.43.24:887][803]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.04.24-22.43.24:889][803]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.04.24-22.43.24:889][803]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.04.24-22.43.24:889][803]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.04.24-22.43.24:889][803]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.04.24-22.43.24:889][803]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.04.24-22.43.24:987][803]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.04.24-22.43.24:987][803]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.04.24-22.43.24:987][803]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.04.24-22.43.24:987][803]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.04.24-22.43.24:987][803]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.04.24-22.43.24:987][803]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.04.24-22.43.24:988][803]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.04.24-22.43.24:988][803]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.04.24-22.43.24:988][803]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.04.24-22.43.24:988][803]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.04.24-22.43.25:024][803]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.04.24-22.43.25:029][803]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.04.24-22.43.25:030][803]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.04.24-22.43.25:030][803]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.04.24-22.43.25:034][803]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.04.24-22.43.25:034][803]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.04.24-22.43.25:034][803]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.04.24-22.43.25:036][803]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.04.24-22.43.25:037][803]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.04.24-22.43.25:037][803]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.04.24-22.43.25:037][803]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.04.24-22.43.25:037][803]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.04.24-22.43.25:037][803]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.04.24-22.43.25:037][803]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.04.24-22.43.25:038][803]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.04.24-22.43.25:038][803]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.04.24-22.43.25:038][803]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.04.24-22.43.25:038][803]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.04.24-22.43.25:038][803]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.04.24-22.43.25:038][803]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.04.24-22.43.25:038][803]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.04.24-22.43.25:246][803]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.04.24-22.43.25:247][803]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.04.24-22.43.25:247][803]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.04.24-22.43.25:247][803]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.04.24-22.43.25:247][803]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.04.24-22.43.25:247][803]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.04.24-22.43.25:247][803]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.04.24-22.43.25:248][803]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.04.24-22.43.25:249][803]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.04.24-22.43.25:249][803]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.04.24-22.43.25:249][803]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.04.24-22.43.25:249][803]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.04.24-22.43.25:250][803]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.04.24-22.43.25:250][803]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.04.24-22.43.25:251][803]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.04.24-22.43.25:253][803]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.04.24-22.43.25:253][803]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.04.24-22.43.25:253][803]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.04.24-22.43.25:254][803]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.04.24-22.43.25:254][803]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.04.24-22.43.25:254][803]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.04.24-22.43.25:254][803]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.04.24-22.43.25:254][803]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.04.24-22.43.25:255][803]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.04.24-22.43.25:255][803]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.04.24-22.43.25:255][803]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.04.24-22.43.25:255][803]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.04.24-22.43.25:255][803]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.04.24-22.43.25:255][803]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.04.24-22.43.25:255][803]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.04.24-22.43.25:255][803]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.04.24-22.43.25:255][803]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.04.24-22.43.25:259][803]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.04.24-22.43.25:260][803]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.04.24-22.43.25:260][803]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.04.24-22.43.25:261][803]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.04.24-22.43.25:261][803]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.04.24-22.43.25:261][803]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.04.24-22.43.25:261][803]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.04.24-22.43.25:261][803]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.04.24-22.43.25:261][803]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.04.24-22.43.25:261][803]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.04.24-22.43.25:261][803]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.04.24-22.43.25:372][803]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.04.24-22.43.25:541][803]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.04.24-22.43.25:541][803]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.04.24-22.43.25:541][803]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.04.24-22.43.25:541][803]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.04.24-22.43.25:541][803]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.04.24-22.43.25:541][803]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.04.24-22.43.25:677][803]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.04.24-22.43.25:678][803]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.04.24-22.43.25:678][803]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.04.24-22.43.25:678][803]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.04.24-22.43.25:682][803]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.04.24-22.43.25:683][803]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.04.24-22.43.25:684][803]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.04.24-22.43.25:684][803]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.04.24-22.43.25:684][803]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.04.24-22.43.25:684][803]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.04.24-22.43.25:684][803]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.04.24-22.43.25:685][803]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.04.24-22.43.25:685][803]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.04.24-22.43.25:685][803]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.04.24-22.43.25:685][803]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.04.24-22.43.25:685][803]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.04.24-22.43.25:685][803]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.04.24-22.43.25:686][803]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.04.24-22.43.25:686][803]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.04.24-22.43.25:686][803]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.04.24-22.43.25:686][803]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.04.24-22.43.25:686][803]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.04.24-22.43.25:686][803]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.04.24-22.43.25:686][803]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.04.24-22.43.25:704][803]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.04.24-22.43.25:704][803]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.04.24-22.43.25:704][803]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.04.24-22.43.25:704][803]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.04.24-22.43.25:704][803]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.04.24-22.43.25:705][803]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.04.24-22.43.25:705][803]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.04.24-22.43.25:705][803]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.04.24-22.43.25:705][803]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.04.24-22.43.25:705][803]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.04.24-22.43.25:705][803]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.04.24-22.43.25:705][803]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.04.24-22.43.25:705][803]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.04.24-22.43.25:705][803]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.04.24-22.43.25:705][803]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.04.24-22.43.25:705][803]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.04.24-22.43.25:717][803]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.04.24-22.43.25:778][803]LogDerivedDataCache: Shutdown
+[2018.04.24-22.43.25:778][803]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.04.24-22.43.25:779][803]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.04.24-22.43.25:780][803]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.04.24-22.43.25:780][803]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.04.24-22.43.25:780][803]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.04.24-22.43.25:780][803]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.04.24-22.43.25:780][803]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.04.24-22.43.25:780][803]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.04.24-22.43.25:780][803]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.04.24-22.43.25:782][803]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.04.24-22.43.25:782][803]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.04.24-22.43.25:782][803]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.04.24-22.43.25:782][803]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.04.24-22.43.25:782][803]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.04.24-22.43.25:782][803]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.04.24-22.43.25:782][803]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.04.24-22.43.25:782][803]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.04.24-22.43.25:782][803]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.04.24-22.43.25:782][803]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.04.24-22.43.25:783][803]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.04.24-22.43.25:783][803]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.04.24-22.43.25:783][803]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.04.24-22.43.25:783][803]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.04.24-22.43.25:783][803]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.04.24-22.43.25:783][803]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.04.24-22.43.25:784][803]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.04.24-22.43.25:784][803]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.04.24-22.43.25:784][803]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.04.24-22.43.25:784][803]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.24-22.43.25:784][803]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.24-22.43.25:784][803]LogOnline: Display: Unloading online subsystem: NULL
+[2018.04.24-22.43.25:784][803]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.24-22.43.25:784][803]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.24-22.43.25:785][803]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.24-22.43.25:785][803]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B20986F97-48B4-2745-2DE2-8088FF1BDF9D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=38874b184dff6193d8f0fdac06828502%7C0d08e578210e45b082f284cc95163ddb%7Cb02ebd49-7de1-4428-ad9c-f5e04e8f4c81&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.24-22.43.25:820][803]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.24-22.43.25:824][803]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.24-22.43.25:824][803]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.24-22.43.25:824][803]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.24-22.43.25:824][803]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.24-22.43.25:824][803]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.24-22.43.25:824][803]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.24-22.43.25:824][803]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.24-22.43.25:850][803]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.24-22.43.25:850][803]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.24-22.43.25:850][803]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.24-22.43.25:850][803]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.24-22.43.25:850][803]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.24-22.43.25:850][803]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.24-22.43.25:850][803]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.24-22.43.25:850][803]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.24-22.43.25:850][803]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.24-22.43.25:850][803]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.24-22.43.25:850][803]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.24-22.43.25:854][803]LogExit: Exiting.
+[2018.04.24-22.43.25:906][803]Log file closed, 04/24/18 18:43:25
